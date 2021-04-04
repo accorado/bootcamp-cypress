@@ -17,7 +17,5 @@
 ### 👽 Autora
 Feito com 💜 por Anna Carolina 👋💻 Entre em contato!
 
-[[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/anna-carolina-campos-corado-66603015a/) 
-
-  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/accorado)
+ 
+[<img src="https://img.shields.io/badge/-Anna-Carolinalinkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/accorado)
